@@ -13,12 +13,11 @@ excerpt: "Hi 👋🏼, I'm an software engineer with over five years of experien
 
 - check
 - check
-"https://picsum.photos/1300/400?image=989"
+- check 
+- ![Screenshot](https://picsum.photos/1300/400?image=989)
 
 
 ## Examples
-
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
 
 - check
 - check
