@@ -11,18 +11,29 @@ Hi 👋🏼, I'm an software engineer with over five years of experience in comp
 {% include button.html text="" icon="github" link="https://github.com/ssong24" color="#000000" %} {% include button.html text="Contact me" icon="twitter" link="songeun.kim.24@gmail.com" color="#000000" %} 
 
 
-## Features
+## Portfolios
 
-- check
-- check
-- check 
-![Screenshot](https://picsum.photos/1300/400?image=989)
+- Visual Object Tracking with Pivo Pod
+- 3D Texturing for Virtual Home Tour
+- Image Restoration based on Diffusion model 
 
 
-## Examples
+### Visual Object Tracking with Pivo Pod
 
-- check
-- check
+Group two racket players from detected bounding boxes and track the box using Pivo pod. Given the racket players video, we train detector of person and racket, and select most suitable two people using previous box, confidence and size of the bounding box info. Optimize the inference and implement on mobile device. 
+
+#### Achievements
+ - Train model 
+ - Applied sorting to select most suitable targets among detection results
+ - Trained and evaluated racket player custom dataset
+ - Detector Model compression and optimization for real-time inference in mobile device
+
+
+#### Demo video
+[Watch on YouTube](https://www.youtube.com/watch?v=jGfMteI-SVg)
+
+#### Skills
+Pytorch, Vulkan, Kubeflow, C++
 
 ## More Projects
 
