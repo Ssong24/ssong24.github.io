@@ -8,7 +8,7 @@ excerpt: "Hi 👋🏼, I'm an software engineer with over five years of experien
 ---
 Hi 👋🏼, I'm an software engineer with over five years of experience in computer vision and AI, working across and leading cross-functional teams in designing innovative AI solutions.
 
-{% include button.html text="" icon="github" link="https://github.com/ssong24" color="#000000" %} {% include button.html text="Contact me" icon="twitter" link="songeun.kim.24@gmail.com" color="#000000" %} 
+{% include button.html text="Github" icon="github" link="https://github.com/ssong24" color="#000000" %} {% include button.html text="Contact me" icon="twitter" link="songeun.kim.24@gmail.com" color="#000000" %} 
 
 
 ## Portfolios
