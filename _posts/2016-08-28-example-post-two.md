@@ -1,5 +1,5 @@
 ---
-title: History of the Alembic
+title: Image Restoration based on Diffusion model
 categories:
 - History
 - External sources

@@ -14,7 +14,7 @@ Hi 👋🏼, I'm an software engineer with over five years of experience in comp
 ## Portfolios
 
 - Visual Object Tracking with Pivo Pod
-- 3D Texturing for Virtual Home Tour
+- [3D Texturing for Virtual Home Tour](/3d-texturing/)
 - Image Restoration based on Diffusion model 
 
 ## More Projects

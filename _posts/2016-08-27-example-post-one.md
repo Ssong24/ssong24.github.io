@@ -5,6 +5,7 @@ categories:
 - External sources
 excerpt: |
   Textured 3D indoor reconstructions by partitioning input meshes into planes and mapping optimal camera views based on vertex visibility and clustering.
+permalink: /3d-texturing/
 feature_image: "/assets/3d-mesh-texture.png"
 ---
 
@@ -20,8 +21,7 @@ Textures 3D reconstructions of indoor scenes from 2D images and camera poses.  G
 - 📦 Supported testing & deployed to the production server
 
 ### Skills & Technologies
-- 3D Geometry & Mesh Processing: mesh simplification, partitioning, vertex visibility, seam correction
-- Photogrammetry Tools: mvs-texturing, perspective projection
+- 3D Geometry: mesh simplification, partitioning, vertex visibility, seam correction
 - Image Processing: exposure fusion, AHE, reflection removal, segmentation
 - Programming Languages: Python, C++
 - Deployment: Docker
