@@ -12,12 +12,12 @@ Textures 3D reconstructions of indoor scenes from 2D images and camera poses.  G
 
 
 ### Key Achievements
-🧠 Applied clustering and optimized rendering using mvs-texturing
-🌅 Enhanced image quality with exposure fusion, histogram equalization and reflection removal
-✂️ Reduced seam artifacts by refining mesh edges and fixing indoor wall textures
-🧩 Implemented quadratic mesh simplification for performance
-🔄 Generated artificial perspective views from panoramas
-📦 Supported testing & deployed to the production server
+- 🧠 Applied clustering and optimized rendering using mvs-texturing
+- 🌅 Enhanced image quality with exposure fusion, histogram equalization and reflection removal
+- ✂️ Reduced seam artifacts by refining mesh edges and fixing indoor wall textures
+- 🧩 Implemented quadratic mesh simplification for performance
+- 🔄 Generated artificial perspective views from panoramas
+- 📦 Supported testing & deployed to the production server
 
 ### Skills & Technologies
 - 3D Geometry & Mesh Processing: mesh simplification, partitioning, vertex visibility, seam correction
