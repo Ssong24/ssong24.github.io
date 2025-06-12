@@ -1,12 +1,12 @@
 ---
-title: Description of an Alembic
+title: 3D Mesh Texturing
 categories:
 - General
 - External sources
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "/assets/3d-mesh-texture.png"
 ---
 
-The complete distilling apparatus consists of three parts: the "cucurbit" (Arabic ḳarʿa, Greek βίκος), the still pot containing the liquid to be distilled, which is heated by a flame; the "head" or "cap" (Arabic anbiḳ, Greek ἄμβιξ) which fits over the mouth of the cucurbit to receive the vapors, with an attached downward-sloping "tube" (Greek σωλήν), leading to the "receiver" (Arabic ḳābila, Greek ἄγγος or φιάλη) container.
+Textures 3D reconstructions of indoor scenes from 2D images and camera poses.  Given as input a mesh(.ply) and camera poses, apply partitioning the mesh into planes and rendering the model under given poses, and generates vertex visibility data per frame. Based on partition result a cluster-plane index files and vertex visibility, generate texture patch by mapping each clustered plane with one camera view. 
 
 <!-- more -->
 

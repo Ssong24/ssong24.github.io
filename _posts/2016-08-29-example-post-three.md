@@ -6,7 +6,6 @@ excerpt: |
   Group two racket players from detected bounding boxes and track the box using Pivo pod.
 feature_text: |
   ## Group Tracking
-  This feature is designed to detect the racket player, smoothing capture the solo or pair training.
 feature_image: "/assets/premium_photo-1666913667023-4bfd0f6cff0a.avif"
 image: "https://picsum.photos/2560/600?image=733"
 ---
