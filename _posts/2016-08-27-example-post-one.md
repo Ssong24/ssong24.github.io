@@ -3,6 +3,8 @@ title: 3D Mesh Texturing
 categories:
 - General
 - External sources
+excerpt: |
+  Textured 3D indoor reconstructions by partitioning input meshes into planes and mapping optimal camera views based on vertex visibility and clustering.
 feature_image: "/assets/3d-mesh-texture.png"
 ---
 
@@ -10,6 +12,40 @@ Textures 3D reconstructions of indoor scenes from 2D images and camera poses.  G
 
 <!-- more -->
 
-Retorts have the "cap" and the "cucurbit" made into one. The anbik is also called the raʾs (head) of the cucurbit. The liquid in the cucurbit is heated or boiled; the vapour rises into the anbik, where it cools by contact with the walls and condenses, running down the spout into the receiver. A modern descendant of the alembic is the pot still, used to produce distilled beverages.
+🧠 Applied clustering and optimized rendering using mvs-texturing
 
-_Originally from [Alembic - Wikipedia](https://en.wikipedia.org/wiki/Alembic)_
+👁️ Selected best views per cluster using vertex visibility analysis
+
+🎨 Preserved vertex color data during mesh partitioning
+
+📐 Added control over partitioning via plane size parameter
+
+🌅 Enhanced image quality with exposure fusion, histogram equalization & reflection removal
+
+✂️ Reduced seam artifacts by refining mesh edges and fixing indoor wall textures
+
+🚫 Removed floor projection errors using segmentation techniques
+
+🧩 Implemented quadratic mesh simplification for performance
+
+🔄 Generated artificial perspective views from panoramas
+
+⚙️ Ported Python pitch/yaw projection logic to efficient C++
+
+🪟 Merged multiple patch views by selecting visible candidates
+
+📦 Supported testing & deployed to the production server
+
+### Skills & Technologies
+
+3D Geometry & Mesh Processing: mesh simplification, partitioning, vertex visibility, seam correction
+
+Photogrammetry Tools: mvs-texturing, perspective projection
+
+Image Processing: exposure fusion, AHE, reflection removal, segmentation
+
+Programming Languages: Python, C++
+
+Optimization & Performance: view selection, C++ migration for speed
+
+Deployment: production deployment & testing support
