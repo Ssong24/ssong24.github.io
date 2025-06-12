@@ -21,3 +21,10 @@ Group two racket players from detected bounding boxes and track the box using Pi
  - Applied sorting to select most suitable targets among detection results
  - Trained and evaluated racket player custom dataset
  - Detector Model compression and optimization for real-time inference in mobile device
+
+
+#### Demo video
+[Watch on YouTube](https://www.youtube.com/watch?v=jGfMteI-SVg)
+
+#### Skills
+Pytorch, Vulkan, Kubeflow, C++
