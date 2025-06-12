@@ -19,7 +19,10 @@ Hi 👋🏼, I'm an software engineer with over five years of experience in comp
 
 
 ### Visual Object Tracking with Pivo Pod
-![tracking_img](assets/full-shot-women-playing-paddle-tennis.webp)
+
+
+![tracking_img]({{ site.baseurl }}/assets/full-shot-women-playing-paddle-tennis.webp)
+
 Group two racket players from detected bounding boxes and track the box using Pivo pod. Given the racket players video, we train detector of person and racket, and select most suitable two people using previous box, confidence and size of the bounding box info. Optimize the inference and implement on mobile device. 
 
 #### Achievements
