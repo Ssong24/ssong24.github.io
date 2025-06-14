@@ -1,11 +1,11 @@
 ---
-title: Visual Object Tracking with Pivo Pod
+title: Pivo Object & Group Tracking Pod
 categories:
 - General
 excerpt: |
-  Group two racket players from detected bounding boxes and track the box using Pivo pod.
+  Developed a real-time object and group tracking system for Pivo, enabling smooth single and dual-player tracking using deep learning and mobile optimization.
 feature_text: |
-  ## Group Tracking
+  ## Pivo Tracking
 permalink: /group-tracking/
 feature_image: "/assets/premium_photo-1666913667023-4bfd0f6cff0a.avif"
 image: "https://picsum.photos/2560/600?image=733"
@@ -13,14 +13,18 @@ image: "https://picsum.photos/2560/600?image=733"
 
 ![tracking_img]({{ site.baseurl }}/assets/full-shot-women-playing-paddle-tennis.webp)
 
-Group two racket players from detected bounding boxes and track the box using Pivo pod. Given the racket players video, we train detector of person and racket, and select most suitable two people using previous box, confidence and size of the bounding box info. Optimize the inference and implement on mobile device. 
+## Visual Object Tracking
+Contributed to enhancing the Pivo object tracking system, built on the DeepSort framework with person detection and feature extraction for Person Re-ID. Focused on improving tracking robustness and real-time performance. Current work includes optimizing the pipeline for mobile deployment through model compression techniques such as quantization, pruning, and lightweight inference for mobile device maintaining high accuracy evaluated on the test videos.
+
+## Group Tracking
+Developed a system to track two racket players simultaneously (“Double Match” feature). Built a custom detector for people and rackets, applied bounding box analysis (confidence, size, previous location) to select the most relevant two players, and implemented group tracking using the Pivo pod. Optimized the model for real-time inference on mobile devices.
 
 
-#### Achievements
- - Train model 
- - Applied sorting to select most suitable targets among detection results
- - Trained and evaluated racket player custom dataset
- - Detector Model compression and optimization for real-time inference in mobile device
+#### Key Contribution
+- Integrated face tracking module using AdaFace and ArcFace loss (in progress)
+- Trained and evaluated a custom dataset for racket players
+- Applied efficient model compression for mobile inference
+- Designed selection logic for multi-player tracking based on detection attributes
 
 
 #### Demo video
