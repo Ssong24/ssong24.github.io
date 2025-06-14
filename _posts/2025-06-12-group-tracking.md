@@ -4,8 +4,7 @@ categories:
 - General
 excerpt: |
   Developed a real-time object and group tracking system for Pivo, enabling smooth single and dual-player tracking using deep learning and mobile optimization.
-feature_text: |
-  ## Pivo Tracking
+
 permalink: /pivo-tracking/
 feature_image: "/assets/premium_photo-1666913667023-4bfd0f6cff0a.avif"
 image: "https://picsum.photos/2560/600?image=733"
