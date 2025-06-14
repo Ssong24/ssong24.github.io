@@ -13,9 +13,9 @@ Hi 👋🏼, I'm an software engineer with 4+ years of experience in academia an
 
 ## Portfolios
 
-- [Visual Object Tracking with Pivo Pod](/group-tracking/)
+- [Visual Object Tracking with Pivo Pod](/pivo-tracking/)
 - [3D Texturing for Virtual Home Tour](/3d-texturing/)
-- Image Restoration based on Diffusion model 
+- [Image Restoration based on Diffusion model](/image-restoration/) 
 
 ## More Projects
 
