@@ -34,6 +34,7 @@ We also explore multi-scale feature fusion in real-time object detection using t
 </video>
 
 
+
 #### Key Contribution
 - Improved object detection accuracy by 4.7% compared to models trained on uncorrected fisheye images
 - Enabled detection inference with real-time distortion correction.
