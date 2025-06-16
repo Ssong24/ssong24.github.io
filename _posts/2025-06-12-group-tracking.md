@@ -26,6 +26,8 @@ Developed a system to track two racket players simultaneously (â€œDouble Matchâ€
 - Designed selection logic for multi-player tracking based on detection attributes
 
 
+{% include button.html text="Demo" icon="youtube" link="https://www.youtube.com/watch?v=jGfMteI-SVg" color="#000000" %} 
+
 #### Demo video
 [Watch on YouTube](https://www.youtube.com/watch?v=jGfMteI-SVg)
 
