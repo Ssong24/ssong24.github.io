@@ -29,4 +29,4 @@ Developed a system to track two racket players simultaneously (â€œDouble Matchâ€
 
 
 #### Skills
-Pytorch, Vulkan, Kubeflow, C++
+C++, Pytorch, Vulkan, Kubeflow, CMake
