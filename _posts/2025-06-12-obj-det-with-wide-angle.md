@@ -1,5 +1,5 @@
 ---
-title: Object Detection with Fisheye Lens Image
+title: Object Detector with Fisheye Images
 categories:
 - General
 excerpt: |
@@ -12,19 +12,19 @@ permalink: /obj-det-fisheye/
 
 ## Abstract
 Accurate object detection from wide-angle views is essential for advanced autonomous driving. Fisheye lens cameras are useful in this context but introduce heavy radial distortion — objects in the center appear larger, while those near the edges look smaller.
-
 To address this, we propose Expandable Spherical Projection, which selectively expands the center or edge regions of fisheye images. This helps straighten object edges and reduce background noise in bounding boxes.
-
 We also explore multi-scale feature fusion in real-time object detection using three variations of a YOLOv3-SPP architecture, designed to better detect small objects.
 
-#### Object Detection Result from Fisheye images
+
+#### Detection Result
 ![object-detection-result]({{ site.baseurl }}/assets/fisheye-lens-result.png)
 
 
-#### Proposed Three types of Feature concatenation YOLOv3-SPP Model Structure
+#### Proposed YOLOv3-SPP Model Structures
 ![model-structures]({{ site.baseurl }}/assets/model-structure.png)
 
 
+####  Demo
 <video width="640" height="360" controls>
   <source src="/assets/media1.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -33,9 +33,9 @@ We also explore multi-scale feature fusion in real-time object detection using t
 
 
 #### Key Contribution
-● Improved object detection accuracy by 4.7% compared to models trained on uncorrected fisheye images
-● Enabled detection inference with real-time distortion correction.
-● Evaluated the impact of feature fusion structures on detection accuracy, with a focus on small object performance
+- Improved object detection accuracy by 4.7% compared to models trained on uncorrected fisheye images
+- Enabled detection inference with real-time distortion correction.
+- Evaluated the impact of feature fusion structures on detection accuracy, with a focus on small object performance
 
 
 #### Skills

@@ -17,4 +17,6 @@ Implemented a real-time image super-resolution pipeline to enhance low-resolutio
 - Set up mobile-friendly inference environment with NCNN and Vulkan
 
 #### Skills
-C++, Python, Pytorch, OpenCV, NCNN, Vulkan
+- Languages: Python, 
+- ML Framework: Pytorch
+- Libraries & Tools: OpenCV, NCNN, Vulkan, Docker

@@ -12,7 +12,7 @@ Textures 3D reconstructions of indoor scenes from 2D images and camera poses.  G
 
 
 ### Key Achievements
-- 🧠 Applied clustering and optimized rendering using mvs-texturing
+- 🧠 Applied clustering and optimized rendering using [mvs-texturing](https://github.com/nmoehrle/mvs-texturing)
 - 🌅 Enhanced image quality with exposure fusion, histogram equalization and reflection removal
 - ✂️ Reduced seam artifacts by refining mesh edges and fixing indoor wall textures
 - 🧩 Implemented quadratic mesh simplification for performance
@@ -20,7 +20,6 @@ Textures 3D reconstructions of indoor scenes from 2D images and camera poses.  G
 - 📦 Supported testing & deployed to the production server
 
 ### Skills & Technologies
-- 3D Geometry: mesh simplification, partitioning, vertex visibility, seam correction
-- Image Processing: exposure fusion, AHE, reflection removal, segmentation
-- Programming Languages: Python, C++
+- Languages: Python, C++
 - Deployment: Docker
+- 3D Geometry: mesh simplification, partitioning, vertex visibility, seam correction

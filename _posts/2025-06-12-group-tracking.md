@@ -29,4 +29,8 @@ Developed a system to track two racket players simultaneously (â€œDouble Matchâ€
 
 
 #### Skills
-C++, Pytorch, Vulkan, Kubeflow, CMake
+- Languages: C++, Python
+- ML Framework: Pytorch,
+- Optimization: NCNN, TNN, Vulkan
+- MLOps: Kubeflow, Docker
+- Build tool: CMake
