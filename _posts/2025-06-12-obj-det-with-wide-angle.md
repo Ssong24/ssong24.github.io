@@ -8,28 +8,29 @@ excerpt: |
 permalink: /obj-det-fisheye/
 ---
 
-{% include button.html text="Code" icon="github" link="https://github.com/Ssong24/Expandable-Spherical-Projection" color="#000000" %} 
 
-## Abstract
+
+#### Abstract
 Accurate object detection from wide-angle views is essential for advanced autonomous driving. Fisheye lens cameras are useful in this context but introduce heavy radial distortion — objects in the center appear larger, while those near the edges look smaller.
 To address this, we propose Expandable Spherical Projection, which selectively expands the center or edge regions of fisheye images. This helps straighten object edges and reduce background noise in bounding boxes.
 We also explore multi-scale feature fusion in real-time object detection using three variations of a YOLOv3-SPP architecture, designed to better detect small objects.
+
+{% include button.html text="Thesis" icon="link" link="https://www.mdpi.com/2076-3417/12/5/2403" color="#000000" %}  {% include button.html text="Code" icon="github" link="https://github.com/Ssong24/Expandable-Spherical-Projection" color="#000000" %} 
 
 
 #### Detection Result
 ![object-detection-result]({{ site.baseurl }}/assets/fisheye-lens-result.png)
 
 
-#### Proposed YOLOv3-SPP Model Structures
+#### Proposed Model Structures
 ![model-structures]({{ site.baseurl }}/assets/model-structure.png)
 
 
 ####  Demo
 <video width="640" height="360" controls>
-  <source src="/assets/media1.mp4" type="video/mp4">
+  <source src="/assets/videos/media1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
 
 
 #### Key Contribution
@@ -39,12 +40,8 @@ We also explore multi-scale feature fusion in real-time object detection using t
 
 
 #### Skills
-- Language: C++, Python
-- ML Framework: Pytorch
-- Base model: YOLOv3
-- Dataset: 
-    - Custom Fisheye Dataset ([Fisheye-Dongseongro](https://github.com/Ssong24/Fisheye-Dongseongro)), 
-    - Systhetic Fisheye Dataset from: [KITTI](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d), [CityScapes](https://www.cityscapes-dataset.com/)
+- Language: C++
+- Libraries: OpenCV
 
 
 
