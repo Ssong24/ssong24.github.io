@@ -3,7 +3,7 @@ title: Image Restoration
 categories:
 - General
 excerpt: |
-  Enhanced low-quality images by restoring sharp details and clarity, making them look clean and high-resolution.
+  Enhanced images' detail by restoring sharp details and clarity, making them look clean and high-resolution.
 
 permalink: /image-restoration/
 ---
