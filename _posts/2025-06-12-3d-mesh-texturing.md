@@ -6,6 +6,7 @@ excerpt: |
   Textured 3D indoor reconstructions by partitioning input meshes into planes and mapping optimal camera views based on vertex visibility and clustering.
 permalink: /3d-texturing/
 feature_image: "/assets/3d-mesh-texture.png"
+thumbsnail: "/assets/3d-mesh-texture.png"
 ---
 
 Textures 3D reconstructions of indoor scenes from 2D images and camera poses.  Given as input a mesh(.ply) and camera poses, apply partitioning the mesh into planes and rendering the model under given poses, and generates vertex visibility data per frame. Based on partition result a cluster-plane index files and vertex visibility, generate texture patch by mapping each clustered plane with one camera view. 
