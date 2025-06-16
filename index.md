@@ -6,6 +6,8 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Hi 👋🏼, I'm an software engineer currently based in Finland. I did my undergraduate in Electronics Engineering and researched Machine Learning Model with wide-angle perception system during my master degree in Kyungpook National University in South Korea. With 5+ years of experience in academia and industry, I'm passion about computer vision, AI, Robot, and MLOps field."
 ---
+![profile]({{ site.baseurl }}/assets/img.png)
+
 "Hi 👋🏼, I'm an software engineer currently based in Finland. I did my undergraduate in Electronics Engineering and researched Machine Learning Model with wide-angle perception system during my master degree in Kyungpook National University in South Korea. With 5+ years of experience in academia and industry, I'm passion about computer vision, AI, Robot, and MLOps field."
 
 {% include button.html text="Github" icon="github" link="https://github.com/ssong24" color="#000000" %}  {% include button.html text="Contact" icon="google" link="mailto:songeun.kim24@gmail.com" color="#000000" %} 
