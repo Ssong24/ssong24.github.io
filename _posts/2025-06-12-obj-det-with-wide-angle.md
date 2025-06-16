@@ -6,8 +6,6 @@ excerpt: |
   Improved Object detection accuracy by applying an extended projection method based on spherical projection for fisheye lenses, incorporating an expansion coefficient to interpolate pixel values of distorted objects
 
 permalink: /obj-det-fisheye/
-feature_image: "/assets/premium_photo-1666913667023-4bfd0f6cff0a.avif"
-image: "https://picsum.photos/2560/600?image=733"
 ---
 
 {% include button.html text="Code" icon="github" link="https://github.com/Ssong24/Expandable-Spherical-Projection" color="#000000" %} 
