@@ -12,6 +12,8 @@ image: "https://picsum.photos/2560/600?image=733"
 
 ![tracking_img]({{ site.baseurl }}/assets/full-shot-women-playing-paddle-tennis.webp)
 
+{% include button.html text="Demo" icon="youtube" link="https://www.youtube.com/watch?v=jGfMteI-SVg" color="#000000" %} 
+
 ## Visual Object Tracking
 Contributed to enhancing the Pivo object tracking system, built on the DeepSort framework with person detection and feature extraction for Person Re-ID. Focused on improving tracking robustness and real-time performance. Current work includes optimizing the pipeline for mobile deployment through model compression techniques such as quantization, pruning, and lightweight inference for mobile device maintaining high accuracy evaluated on the test videos.
 
@@ -25,11 +27,6 @@ Developed a system to track two racket players simultaneously (â€œDouble Matchâ€
 - Applied efficient model compression for mobile inference
 - Designed selection logic for multi-player tracking based on detection attributes
 
-
-{% include button.html text="Demo" icon="youtube" link="https://www.youtube.com/watch?v=jGfMteI-SVg" color="#000000" %} 
-
-#### Demo video
-[Watch on YouTube](https://www.youtube.com/watch?v=jGfMteI-SVg)
 
 #### Skills
 Pytorch, Vulkan, Kubeflow, C++
