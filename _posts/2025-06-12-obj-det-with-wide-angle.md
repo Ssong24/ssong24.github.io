@@ -27,6 +27,7 @@ We also explore multi-scale feature fusion in real-time object detection using t
 
 
 ####  Demo
+
 <video width="640" height="360" controls>
   <source src="/assets/videos/media1.mp4" type="video/mp4">
   Your browser does not support the video tag.
