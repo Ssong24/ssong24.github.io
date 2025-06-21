@@ -12,10 +12,9 @@ permalink: /radar-viewer/
 Developed a real-time radar viewer system for autonomous vehicles that processes 24 GHz FM/CW radar sensor data and displays surrounding environment information in a 2D bird's-eye view interface.
 
 ## Key Contribution
-- Implemented CAN message parsing using SocketCAN (Linux-based CAN protocol implementation)
-- Utilized Controller Area Network (CAN) for radar sensor data transmission
+- Implemented CAN message parsing using SocketCAN 
 - Created real-time 2D visualization to display radar measurements
-- Integrated camera sensor verification to confirm radar measurement accuracy
+- Validated radar measurements using camera sensor data.
 
 {% include button.html text="Code" icon="github" link="https://github.com/Ssong24/ADAS-wilco/tree/main" color="#000000" %}
 
