@@ -18,14 +18,6 @@ Developed a real-time radar viewer system for autonomous vehicles that processes
 
 {% include button.html text="Code" icon="github" link="https://github.com/Ssong24/ADAS-wilco/tree/main" color="#000000" %}
 
-## Key Technologies
-- SocketCAN for CAN protocol implementation
-- OpenCV for real-time visualization
-- 24 GHz FM/CW radar sensor integration
-- Camera sensor validation system
-- Linux network programming
-
-
 #### Skills
 - Language: C++
 - Libraries & Tools: OpenCV, CMake, SocketCAN
