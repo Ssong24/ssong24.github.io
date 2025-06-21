@@ -1,28 +1,26 @@
 ---
-title: Lane Detection
+title: Lane Detection Algorithm for Autonomous Driving
 categories:
-- General
+- Computer Vision
+- Autonomous Systems
 excerpt: |
-  A lane detection algorithm for autonomous vehicles using OpenCV and images captured from side and rear vision sensors. 
+   OpenCV-based lane detection system for side and rear monitoring in autonomous vehicles with enhanced performance in low-light conditions.
 
 permalink: /lane-detection/
 ---
 
-#### Abstract
-This study aims to develop a lane detection algorithm for autonomous driving using OpenCV by capturing lanes from the side and rear using a vision sensor.
-The study emphasizes improving detection performance by adjusting image color, brightness, and selecting an appropriate region of interest (ROI). Testing on real-road images confirmed improved lane detection, even under low-light conditions.
+## Project Overview
+Developed a lane detection algorithm for autonomous driving systems using OpenCV computer vision techniques. The system captures and processes lane information from side and rear perspectives using vision sensors, enabling robust lane detection even in challenging lighting conditions.
 
-{% include button.html text="Thesis" icon="link" link="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07512804" color="#000000" %}  {% include button.html text="Code" icon="github" link="https://github.com/Ssong24/ADAS-wilco/tree/main" color="#000000" %}
+## Key Contribution
+- Implemented lane detection algorithm using image filtering approaches
+- Designed Region of Interest (ROI) selection for enhanced accuracy
+- Improved detection rates in dark and low-visibility environments using Sobel edge detection, gradient magnitude/direction analysis, and HLS color space thresholding
+- Validated system performance through real-world road testing
 
-
-####  Demo
-
-<video width="640" height="360" controls>
-  <source src="/assets/videos/lane-detect-1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+{% include button.html text="Code" icon="github" link="https://github.com/username/lane-detection" color="#000000" %}
 
 #### Skills
-- Language: C++
-- Libraries & Tool: OpenCV, CMake
+- Language: Python/C++
+- Libraries & Tools: OpenCV, CMake
+- Platform: Linux
