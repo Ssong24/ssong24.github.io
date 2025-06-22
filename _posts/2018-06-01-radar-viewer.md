@@ -1,5 +1,5 @@
 ---
-title:  Real-Time Radar Data Visualization System
+title:  Radar Data Visualization System
 categories:
 - Autonomous Systems
 excerpt: |

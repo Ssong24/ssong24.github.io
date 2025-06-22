@@ -1,5 +1,5 @@
 ---
-title: Lane Detection Algorithm for Autonomous Driving
+title: Lane Detection
 categories:
 - Autonomous Systems
 excerpt: |
