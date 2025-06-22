@@ -1,7 +1,7 @@
 ---
 title: Object Detector with Fisheye Images
 categories:
-- General
+- Machine Learning 
 excerpt: |
   Improved Object detection accuracy by applying an extended projection method based on spherical projection for fisheye lenses, incorporating an expansion coefficient to interpolate pixel values of distorted objects
 

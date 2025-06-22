@@ -1,7 +1,7 @@
 ---
 title: 3D Mesh Texturing
 categories:
-- General
+- 3D
 excerpt: |
   Textured 3D indoor reconstructions by partitioning input meshes into planes and mapping optimal camera views based on vertex visibility and clustering.
 permalink: /3d-texturing/

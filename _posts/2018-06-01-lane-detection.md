@@ -1,7 +1,6 @@
 ---
 title: Lane Detection Algorithm for Autonomous Driving
 categories:
-- Computer Vision
 - Autonomous Systems
 excerpt: |
    OpenCV-based lane detection system for side and rear monitoring in autonomous vehicles with enhanced performance in low-light conditions.

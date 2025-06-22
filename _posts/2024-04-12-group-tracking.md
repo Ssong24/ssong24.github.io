@@ -1,7 +1,7 @@
 ---
 title: Pivo Object & Group Tracking Pod
 categories:
-- General
+- Machine Learning
 excerpt: |
   Developed a real-time object and group tracking system for Pivo, enabling smooth single and dual-player tracking using deep learning and mobile optimization.
 

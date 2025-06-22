@@ -1,7 +1,7 @@
 ---
 title:  Real-Time Radar Data Visualization System
 categories:
-- General
+- Autonomous Systems
 excerpt: |
    Radar data processing system with real-time 2D visualization for autonomous vehicles.
 
