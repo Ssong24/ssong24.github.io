@@ -1,7 +1,7 @@
 ---
 title: Image Restoration
 categories:
-- General
+- Generative AI
 excerpt: |
   Enhanced images' detail by restoring sharp details and clarity, making them look clean and high-resolution.
 
