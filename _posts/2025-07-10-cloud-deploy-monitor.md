@@ -1,5 +1,5 @@
 ---
-title: End-to-End ML Optimization Pipeline
+title: Cloud Deployment & Monitoring
 categories:
 - Infra
 excerpt: |
@@ -23,3 +23,4 @@ Deployed optimized ML models to AWS environment using Terraform automation. Buil
 - Language: Python
 - Cloud: AWS (SageMaker, EC2, ECR, S3)
 - Tools: Docker, Terraform, CloudWatch, Prometheus
+- Optimization: Neuron SDK
