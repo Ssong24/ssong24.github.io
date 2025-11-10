@@ -17,7 +17,7 @@ Developed a lane detection algorithm for autonomous driving systems using OpenCV
 - Improved detection rates in dark and low-visibility environments using Sobel edge detection, gradient magnitude/direction analysis, and HLS color space thresholding
 - Validated system performance through real-world road testing
 
-{% include button.html text="Code" icon="github" link="https://github.com/username/lane-detection" color="#000000" %}
+{% include button.html text="Code" icon="github" link="https://github.com/Ssong24/ADAS-wilco/tree/main" color="#000000" %}
 
 #### Skills
 - Language: Python/C++
